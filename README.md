@@ -1,2 +1,2 @@
 # student-access
-nothing much only description of student mentioned here!
+nothing much only description of student mentions here!
